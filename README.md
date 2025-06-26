@@ -1,12 +1,32 @@
-# React + Vite
+# 🎲 DiceMaster
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DiceMaster** is a fun and interactive dice game built using **React** and **Vite**, styled with modern `styled-components`. The goal is simple: roll the dice until all of them show the same number. You can hold dice to prevent them from re-rolling — a test of both luck and logic!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎯 Roll dice and try to match all values
+- 🧠 Hold dice between rolls
+- 💅 Styled using `styled-components` for clean, modular design
+- ⚡ Fast Vite-powered development
+- 🎲 Random dice generator with sleek UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Technologies Used
+
+- **React** (v19)
+- **Vite** (v7)
+- **Styled-Components**
+- **JavaScript (ES6+)**
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/DEVID19/DiceMaster.git
+cd DiceMaster
