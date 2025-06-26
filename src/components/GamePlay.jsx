@@ -5,8 +5,8 @@ import TotleScore from "./TotleScore";
 // import { Button, OutlineButton } from "../styled/Button_styled";
 import Rules from "./Rules";
 import { Button, OutlineButton } from "../styled/Button_styled";
-import { MainContainer } from "../styled/GamePlay_Styled";
-// import { MainContainer } from "../styled/GamePlay_Styled";
+import { MainContainer } from "../styled/GamePlay_styled";
+
 const GamePlay = () => {
   const [score, setScore] = useState(0);
   const [error, setError] = useState("");
