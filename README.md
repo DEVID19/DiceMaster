@@ -1,6 +1,6 @@
 # 🎲 DiceMaster
 
-**DiceMaster** is a fun and interactive dice game built using **React** and **Vite**, styled with modern `styled-components`. The goal is simple: roll the dice until all of them show the same number. You can hold dice to prevent them from re-rolling — a test of both luck and logic!
+**DiceMaster** is a fun and interactive dice game built using **React** and **Vite**, styled with modern `styled-components`.
 
 ---
 
